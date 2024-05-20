@@ -1,0 +1,42 @@
+/* Dark Mode Styles */
+.dark-mode {
+    background-color: #222;
+    color: #fff;
+  }
+  
+  .dark-mode .header {
+    background-color: #111;
+  }
+  
+  .dark-mode .topnav a {
+    color: #fff;
+  }
+  
+  .dark-mode .topnav a:hover {
+    background-color: #444;
+    color: #fff;
+  }
+  
+  .dark-mode .topnav a.active {
+    background-color: #444;
+    color: #fff;
+  }
+  
+  .dark-mode .dark-mode-toggle {
+    background-color: #fff;
+    color: #333;
+  }
+  
+  .dark-mode .frame {
+    border-color: #fff;
+  }
+  
+  .dark-mode .text {
+    color: #fff;
+  }
+  
+  .dark-mode .about-me p,
+  .dark-mode .contact-info p {
+    color: #fff;
+  }
+  
